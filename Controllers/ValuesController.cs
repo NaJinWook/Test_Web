@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Test;
 using MySql.Data.MySqlClient;
+using Test;
 
 namespace Test_Web.Controllers
 {
